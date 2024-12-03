@@ -1,4 +1,4 @@
-### Hello world
+Hi, this is Sanah Menon and I am currently working on adding more of my projects onto GitHub, here are a couple of the projects I have completed. 
 
 <!--
 **sanahmenon1/sanahmenon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
